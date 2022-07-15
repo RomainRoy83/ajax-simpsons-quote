@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ajax-simpsons-quote.git/static/css/main.3e390bb5.css",
+    "main.js": "/ajax-simpsons-quote.git/static/js/main.54ef8d9d.js",
+    "static/js/787.8f8c59e6.chunk.js": "/ajax-simpsons-quote.git/static/js/787.8f8c59e6.chunk.js",
+    "index.html": "/ajax-simpsons-quote.git/index.html",
+    "main.3e390bb5.css.map": "/ajax-simpsons-quote.git/static/css/main.3e390bb5.css.map",
+    "main.54ef8d9d.js.map": "/ajax-simpsons-quote.git/static/js/main.54ef8d9d.js.map",
+    "787.8f8c59e6.chunk.js.map": "/ajax-simpsons-quote.git/static/js/787.8f8c59e6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e390bb5.css",
+    "static/js/main.54ef8d9d.js"
+  ]
+}
